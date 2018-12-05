@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Nunito';
+    background-color: pink; 
+}
+img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+p {
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    color: blue;
+}
+button {
+    width: 350px;
+    height: 80px;
+    display: block;
+    background-color: lightgreen;
+    color: white;
+    font-size: 30px;
+    font-family: inherit;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
